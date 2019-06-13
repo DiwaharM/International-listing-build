@@ -1,0 +1,699 @@
+.homeCategoriesBlock {
+  margin-top: 0;
+  position: absolute;
+  position: absolute;
+  top: 79%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.651);
+  width: auto;
+  height: auto;
+  color: green;
+  transition: all .3s ease;
+  float: left;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+
+
+.catTopic {
+  color: rgb(1, 105, 1);
+  font-family: 'Expert Sanss';
+  font-size: 28px !important;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: .8px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.gridTop {
+  margin-top: 70px;
+}
+
+.addContent {
+  text-align: center;
+  margin-top: 0px;
+  color: rgb(2, 88, 2);
+  font-family: 'Expert Sanss';
+  letter-spacing: 1px;
+}
+
+.img-ads {
+  width: 100%;
+  height: auto !important;
+  border-style: inset rgb(1, 27, 1);
+  border-radius: 5px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.catImgs {
+  width: 100%;
+  height: auto;
+  margin-left: 50px;
+  cursor: pointer;
+  border: 2px solid rgb(211, 211, 211);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.342), 0 3px 1px -2px rgba(0, 0, 0, 0.397), 0 1px 5px 0 rgba(0, 0, 0, 0.479);
+}
+
+/* .categoryName {
+  letter-spacing: 1px;
+  padding-left: 
+  margin-left: 0px;
+  margin-top: 5px;
+  font-family: 'Expert San';
+  font-size: 15px;
+  color: green;
+  margin-bottom: 0px;
+  padding-left: 8px;
+  text-align: center;
+} */
+.categoryName {
+  padding-left: 17px;
+  letter-spacing: 1px;
+  margin: 5px;
+  font-family: 'Expert Sanss';
+  text-transform: capitalize;
+
+}
+
+/* Footers */
+.footers {
+  margin-top: 20px;
+  background-color: #363b3d !important;
+}
+
+.img-fluid {
+  width: 70px;
+  height: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-uppercase {
+  color: rgb(255, 255, 255);
+  font-family: 'Expert sans';
+  font-weight: 800px;
+  font-size: 15px;
+  letter-spacing: .4px;
+  cursor: row-resize;
+
+}
+
+.subText {
+  color: #c9c9c9;
+  letter-spacing: .5px;
+  font-family: 'Expert Sans';
+  font-size: 13px;
+  line-height: 30px;
+
+}
+
+.fa-lg {
+  padding: 8px;
+  color: rgb(158, 158, 158);
+  cursor: pointer !important;
+
+}
+
+/* .gridRow {
+  padding-top: 40px;
+  max-width: 100% !important;
+}
+ */
+
+
+/* Footer */
+
+.brandLogo {
+  max-width: 120px;
+  height: auto;
+  cursor: pointer;
+}
+
+.addRess {
+  font-family: 'Expert Sans';
+  font-size: 13px;
+  color: rgb(190, 190, 190);
+  margin: 0px;
+  font-size: 15px;
+}
+
+
+.bg-dark {
+  background: rgb(63, 63, 63) !important;
+}
+
+.py-3 {
+  color: rgb(136, 136, 136);
+  font-family: 'Expert Sans';
+  font-size: 13px;
+  text-align: center;
+
+}
+
+.fiNal {
+  color: rgb(136, 136, 136);
+  font-family: 'Expert Sans';
+  font-size: 13px;
+  text-align: center;
+
+}
+
+.contaCt {
+  padding: 5px;
+  color: rgb(136, 136, 136);
+  text-decoration: none;
+  font-size: 15px;
+  cursor: text;
+}
+
+.Icon {
+  padding: 2px;
+  color: rgb(136, 136, 136);
+
+}
+
+/* public */
+a {
+  text-decoration: none !important;
+}
+
+/*contactUs  */
+
+.totaLic {
+  padding: 5px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 20px;
+  cursor: text;
+  font-family: 'Expert San';
+  text-transform: uppercase;
+  color: #018DFF;
+
+}
+
+.Inform {
+  font-family: 'Expert San';
+  text-align: center;
+  margin-top: 10px;
+  color: #018DFF;
+}
+
+.informList {
+  font-family: 'Expert Sanss';
+  color: rgb(47, 47, 47);
+  font-size: 15px;
+}
+
+.controlFrm {
+  border: rgb(47, 47, 47) 1px solid;
+  border-radius: 0px;
+  width: 100%;
+  height: auto;
+}
+
+.msgFrm {
+  border: rgb(47, 47, 47) 1px solid;
+  border-radius: 0px;
+  width: 100%;
+  height: auto;
+}
+
+.Vbtn {
+  margin-top: 25px;
+  margin-left: 5px;
+
+}
+
+/* FAQ */
+.fAqs {
+  text-align: center;
+  font-family: 'Expert San';
+  text-align: center;
+  margin-top: 10px;
+  color: #0A8024;
+}
+
+.titleFaq {
+  font-family: 'Expert San';
+  text-align: center;
+  margin-top: 10px;
+  color: #0A8024;
+
+}
+
+.subCotentFaq {
+  font-family: 'Expert San';
+  text-align: center;
+  margin-top: 10px;
+  color: #018DFF;
+}
+
+.faqLines {
+  font-family: 'Expert Sans';
+  text-align: left;
+  color: rgb(24, 24, 24);
+  font-size: 15px;
+}
+
+.hedSupport {
+  font-family: 'Expert San';
+  text-align: left;
+
+  color: #0A8024;
+
+  font-size: 35px;
+  text-align: left;
+  margin: 0px;
+  margin-top: 10px;
+  font-weight: 250;
+  font-size: 30px;
+  border-bottom: 1px solid #0A8024;
+  padding: 15px;
+  padding-right: 50px;
+}
+
+.maiLss {
+  font-size: 15px;
+  font-family: 'Expert Sanss';
+
+}
+
+.supportId {
+  font-size: 15px;
+  font-family: 'Expert Sanss';
+
+}
+
+.supportcall {
+  font-size: 15px;
+  font-family: 'Expert Sanss';
+
+}
+
+/* P.Policy */
+.supportPolicy {
+  text-align: center !important;
+  font-family: 'Expert San';
+
+  color: #0A8024;
+  font-size: 35px;
+  text-align: left;
+  margin: 0px;
+  margin-top: 10px;
+  font-weight: 250;
+  font-size: 30px;
+  border-bottom: 1px solid #0A8024;
+  padding: 15px;
+  padding-right: 50px;
+}
+
+.policyTopic {
+  color: #0A8024;
+  font-size: 20px;
+  font-family: 'Expert Sanss';
+
+}
+
+.policyQuestion {
+  color: #000;
+  font-family: 'Expert Sanss';
+
+}
+
+
+.condaiTions {
+  color: #0A8024;
+  font-family: 'Expert San';
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+.conLine {
+  letter-spacing: 0.5px;
+  font-family: 'Expert Sanss';
+
+}
+
+
+
+/* Banner */
+
+.img-banner {
+  min-width: 100% !important;
+  height: auto;
+}
+
+.bannerContent {
+  position: absolute;
+  width: 80%;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font: 30px 'Expert San';
+  font-family: 'Expert Sanss';
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  display: block;
+  font-weight: 100;
+  text-align: center !important;
+}
+
+.cenTered {
+  position: absolute;
+  width: 30%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bannerSearch {
+  width: 100%;
+  position: relative;
+}
+
+.bannerFrm {
+  float: left;
+  width: 120%;
+  /*   border: 1px solid rgb(255, 255, 255); */
+  padding: 11px;
+  height: auto;
+  border-radius: 5px 0px 0px 5px;
+  cursor: pointer;
+  font-family: sans-serif;
+  font-size: 13px;
+
+}
+
+.btn-smbtn {
+  position: absolute;
+  width: 50px;
+  height: auto;
+  background-color: rgb(8, 87, 14);
+  text-align: center;
+  color: rgb(1, 4, 15);
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 0px 5px 5px 0px;
+}
+
+
+.brandLogo {
+  width: 100px;
+  height: 100px;
+  margin: 0px;
+  align-items: center;
+}
+
+.logoZ {
+  margin: 0px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.buttonClr {
+
+  margin: 0px;
+  margin-bottom: 18px;
+  background: green;
+  color: white;
+  font-weight: bold;
+  margin-top: 10px !important;
+}
+
+@media only screen and (max-width: 900px) {
+  .buttonClr {
+
+    margin-top: 20px !important;
+    margin-bottom: 18px;
+    background: green;
+    color: white;
+    font-weight: bold;
+
+  }
+.viewOnes{
+  width:100% !important;
+  height: 400px;
+  opacity: 0.8 !important;
+  margin: 1px;
+  padding: 0px;
+}
+.nameCny{
+  letter-spacing: 1.3px !important;
+  color: rgb(216, 216, 216);
+  font-size: 20px !important;
+  margin: 0px;
+}
+.cnyMail{
+  margin: 5px;
+  font-size: 15px !important;
+}
+  .img-banner {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .addContent {
+    font-size: 15px;
+  }
+
+  .bannerContent {
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font: 13px 'Expert San';
+    font-family: 'Expert Sanss';
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 100;
+    margin-bottom: 20px !important;
+    padding-bottom: 15px;
+  }
+
+  .cenTered {
+    position: absolute;
+    width: 30%;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    margin-top: 10px !important;
+  }
+}
+
+.border {
+  border: 2px solid rgb(233, 233, 233) !important;
+  box-shadow: 0 2px 2px 0 rgba(12, 41, 251, 0.2), 0 6px 20px 0 rgba(12, 41, 251, 0.2);
+  border-radius: 5px;
+}
+
+.gridFrm {
+  box-shadow: 0 1px 1px 0 rgba(12, 41, 251, 0.2), 0 6px 20px 0 rgba(12, 41, 251, 0.2);
+  border-radius: 5px;
+  width: 100%;
+  margin: 0px;
+}
+
+.divLable {
+  margin: 5px !important;
+  font-family: 'Expert San';
+  letter-spacing: 0.5px;
+
+}
+
+.itemLable {
+  margin: 1px !important;
+  font-family: 'Expert San';
+  letter-spacing: 0.5px;
+}
+
+.buttonuD {
+  margin-top: 20px !important;
+  margin-bottom: 18px;
+  background: green;
+  color: white;
+  font-weight: bold;
+  margin: 10px !important;
+}
+
+.gridSpace {
+  box-shadow: 0 1px 1px 0 rgba(12, 41, 251, 0.2), 0 2px 10px 0 rgba(12, 41, 251, 0.2);
+  height: 100%;
+  height: auto;
+  margin: 0px !important;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+
+/* Nav-bar-Header */
+
+.bg-secondary {
+  background: #878b8e !important;
+  color: #00f0ff;
+}
+
+.hnMenus {
+  color: #ffffff !important;
+  text-transform: capitalize !important;
+  font-family: 'Expert Sanss' !important;
+  font-size: 16px;
+  letter-spacing: 0.1rem;
+  cursor: pointer;
+}
+
+/* End-header */
+
+
+.img-category {
+  max-width: 100px;
+  height: 80px;
+  margin: 0px;
+}
+
+
+.gridProbs {
+  margin: 0px;
+  padding: 0px;
+}
+
+.logoZs{
+  width: 200px;
+  height: 150px;
+}
+.ClassZ{
+width: 100%;
+height: auto;
+border: rgb(1, 88, 13) 1px solid;
+border-radius: 5px;
+}
+.viewOnes{
+  width:100% !important;
+  height: 400px;
+  opacity: 0.8 !important;
+}
+.viewOnz{
+  width: 100% !important;
+  height: auto;
+  margin-top: 20px !important;
+  border: rgb(126, 126, 126) 1px solid;
+  border-radius: 0px !important;
+
+}
+
+.text-block {
+  position: absolute;
+  width: 50%;
+  height: auto;
+  padding: 10px;
+  margin: 10px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.637);
+  color: white;
+  font-family: 'Expert Sanss' !important;
+  text-align: center;
+  border-radius: 20px;
+
+}
+.nameCny{
+  letter-spacing: 1.3px !important;
+  color: rgb(216, 216, 216);
+  font-size: 50px;
+  margin: 0px;
+}
+.cnyMail{
+  margin: 5px;
+  font-size: 22px;
+}
+
+.imglgsz{
+width: 100%;
+height: 200px;
+margin: 0px;
+border-radius: 8px;
+}
+
+.GridOnzz{
+  margin: 0px;
+}
+
+.marSpace{
+margin: 20px;
+box-shadow: 0 2px 3px 0 rgba(12, 41, 251, 0.2), 0 2px 10px 0 rgba(12, 41, 251, 0.2) !important;
+border-radius: 20px !important;
+
+}
+
+.bg-darks{
+background: rgba(68, 68, 68, 0.877);
+width: 50%;
+margin-left: 20px;
+}
+
+.Whole{
+  font-family: 'Expert Sanss' !important;
+letter-spacing: 2px;
+}
+.cnyWhole{
+  font-family: 'Expert Sanss' !important;
+  letter-spacing: 2px;
+  color: green;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+.onsDay{
+  font-size: 28px; color: green;
+  font-family: 'Expert Sanss' !important;
+}
+.postRw{
+  color: #0A8024;
+  font-family: 'Expert Sanss' !important;
+font-weight: bolder;
+}
+
+.borderZ{
+  padding-left: 50px;
+}
+.finZ{
+  margin: 15px;
+  background: #0A8024;
+  color: white;
+}
+.cliX{
+margin: 15px !important;
+background: #0A8024;
+color: white;
+}
+
+.finalz{
+box-shadow: 0 2px 3px 0 rgba(12, 41, 251, 0.2), 0 2px 10px 0 rgba(12, 41, 251, 0.2) !important;
+margin: 20px;
+padding: 50px;
+border-radius: 10px;
+}
+.fzzZ{
+  width: 100%;
+  height: 150px;
+}
+.img-promo{
+  width: 100%;
+  height: 200px;
+}
